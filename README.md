@@ -14,8 +14,9 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Devazt&theme=blue-green&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
   </a>
+<br/>
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devazt&layout=compact" alt="Devazt's TOP Langh">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devazt&layout=compact&theme=radical" alt="Devazt's TOP Lang">
 </div>
 
 <br/><br/>
