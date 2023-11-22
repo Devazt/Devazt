@@ -6,33 +6,6 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate backend developer</h3>
-
-</br>
-
-<div align="center>
-
-- 🔭 I’m currently working on **backend website**
-- 🌱 I’m currently learning **Node.js, Typescript, Tailwind, Python**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
-
-</div>
-
-<div align="center">
-  <a href="mailto:nandy.septiana@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target"_blank" />
-  </a>
-  <a href="https://linkedin.com/in/nandy-septiana" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://Devazt.github.io" target="_blank">
-     <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -41,7 +14,8 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Devazt&theme=blue-green&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
   </a>
-  ![Devazt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devazt&show_icons=true&theme=dark)
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devazt&layout=compact" alt="Devazt's TOP Langh">
 </div>
 
 <br/><br/>
