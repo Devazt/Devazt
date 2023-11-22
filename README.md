@@ -14,13 +14,10 @@
 
 - 🔭 I’m currently working on **backend website**
 - 🌱 I’m currently learning **Node.js, Typescript, Tailwind, Python**
-<!-- - 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 </div>
 
@@ -36,16 +33,6 @@
   </a>
 </div>
 
-</hr>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Devazt/Devazt/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -54,6 +41,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Devazt&theme=blue-green&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />
   </a>
+  ![Devazt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devazt&show_icons=true&theme=dark)
 </div>
 
 <br/><br/>
